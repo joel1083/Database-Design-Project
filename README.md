@@ -1,6 +1,6 @@
-## Database-Design-Project
+# Database-Design-Project
 
-# In this project, I was assigned to develop Queries using the “MakeViewer”, “MakeMovie”, and “MakeRating” scripts as shown in the dataset folder, and successfully execute the following commands.
+## In this project, I was assigned to develop Queries using the “MakeViewer”, “MakeMovie”, and “MakeRating” scripts as shown in the dataset folder, and successfully execute the following commands.
 
 
 
@@ -22,5 +22,4 @@
 
 9) By Gender, list the average student reviewers’ age, Average Rating, and The number of ratings given to movies made in 1996.  Use the column titles "Average Age", "Average Rating" and "Number of Ratings" for movies made in 1996. HINT: Use multiple left joins.
 
-10 a) List all occupations in which the male reviewers have an average age above 40.00. Show the results for average age as a decimal number. 
-10 b) Submit a second query using only integer values. Do you notice a difference?
+10) [A] List all occupations in which the male reviewers have an average age above 40.00. Show the results for average age as a decimal number. [B] Submit a second query using only integer values. Do you notice a difference?
